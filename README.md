@@ -31,7 +31,7 @@
 
 # Description
 
-  - Proof of Concepts. Multiple Android Apps.
+  - Proof of Concepts. Multiple Android examples.
 
 # IDE
 
