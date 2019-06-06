@@ -66,10 +66,6 @@
 
 ### 1 - Modified Android Manifest to point any activity that needs to be opened as main.
 
-```
-// Do something
-```
-
 # Singletons
 
   - N/A
