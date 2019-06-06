@@ -51,7 +51,7 @@
 
 # Composition
 
-  - SDK is total native.
+  - N/A
 
 # Run
 
@@ -64,7 +64,7 @@
 
 # Usage
 
-### 1 - Modified Android Manifest to point any activity that needs to be opened as main.
+### 1 - Modify Android Manifest to point out any activity that needs to be opened as main.
 
 # Singletons
 
