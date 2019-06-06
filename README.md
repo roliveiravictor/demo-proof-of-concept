@@ -64,7 +64,7 @@
 
 # Usage
 
-### 1 - Modify Android Manifest to point out any activity that needs to be opened as main.
+ - 1 - Modify Android Manifest to point out any activity that needs to be opened as main.
 
 # Singletons
 
