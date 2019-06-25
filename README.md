@@ -35,7 +35,7 @@
 
 # IDE
 
-- Android Studio 3.5 Beta 3
+- Android Studio 3.5 Beta
 - Build #AI-191.7141.44.35.5585527, built on May 20, 2019
 - JRE: 1.8.0_202-release-1483-b02 x86_64
 - JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
